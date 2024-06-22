@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170150774272",
+    "project_id": "ethiomaps-b77c2",
+    "storage_bucket": "ethiomaps-b77c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170150774272:android:8a329f2edfdd039a443ae5",
+        "android_client_info": {
+          "package_name": "com.yehatech.ethiomaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170150774272-kqkl7ru3c3koi518k9copv86p4mbcbmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yehatech.ethiomaps",
+            "certificate_hash": "1496ec9c86ce488fa450bb6ec62cf0d18e748d6f"
+          }
+        },
+        {
+          "client_id": "170150774272-lbaotnem638kstehl9mtr2vi6ds2vefo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEJqBYeQrNlL_GvL1qdO4Rrf3w1gHwoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170150774272-lbaotnem638kstehl9mtr2vi6ds2vefo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
